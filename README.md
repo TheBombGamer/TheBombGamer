@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBombGamer
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Website Hosting
 - 📫 How to reach me Speight-Kyle@outlook.com
 - 😄 Pronouns: He/Him
