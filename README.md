@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Website Hosting
-- 📫 How to reach me Speight-Kyle@outlook.com <br>
+- 📫 How to reach me Speight-Kyle@outlook.com <br><br>
 ![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
