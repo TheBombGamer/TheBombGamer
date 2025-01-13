@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kyle Speight
 - 👀 I’m interested in making the web cheaper for developers
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Website Hosting
+- 🤝 I’m looking to collaborate on Website Hosting
+- :pray: looking for some sponsors too
 - 📫 How to reach me Speight-Kyle@outlook.com <br><br>
 ![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
 ### Working on a free web/code hosting service ###
