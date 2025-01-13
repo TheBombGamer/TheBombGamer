@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Website Hosting
 - 📫 How to reach me Speight-Kyle@outlook.com <br><br>
-![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgame&show_icons=true&theme=dark)
+![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
 ### Working on a free web/code hosting service ###
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
 <p align="left">
