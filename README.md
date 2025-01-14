@@ -4,7 +4,8 @@
 - 🤝 I’m looking to collaborate on Website Hosting
 - :pray: looking for some sponsors too
 - 📫 How to reach me Speight-Kyle@outlook.com <br>
-I have over half a decadeof experience coding!<br>
+## I have over half a decade of experience coding!
+<br>
 ![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
 ### Working on a free web/code hosting service ###
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
