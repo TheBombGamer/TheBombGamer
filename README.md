@@ -8,7 +8,7 @@
 <br>
 
 ![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
-### Working on a free web/code hosting service ###
+### Working on alt account market ###
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="55"/>
