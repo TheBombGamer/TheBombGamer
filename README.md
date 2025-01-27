@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebombgamer&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebombgamer&theme=dark&"/></p>
 ### Working on alt account market ###
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
 <p align="left">
