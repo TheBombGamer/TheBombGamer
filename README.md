@@ -33,3 +33,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="55"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=0e75b6"/> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=god&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
