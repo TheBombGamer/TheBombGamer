@@ -5,7 +5,7 @@
 - :pray: looking for some sponsors too
 - 📫 How to reach me Speight-Kyle@outlook.com <br>
 ## I have over half a decade of experience coding!
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
 
