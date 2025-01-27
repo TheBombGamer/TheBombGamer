@@ -5,9 +5,12 @@
 - :pray: looking for some sponsors too
 - 📫 How to reach me Speight-Kyle@outlook.com <br>
 ## I have over half a decade of experience coding!
-<br>
 
-![TheBombGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebombgamer&theme=dark"/></p>
 ### Working on alt account market ###
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
 <p align="left">
