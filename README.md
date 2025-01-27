@@ -5,6 +5,7 @@
 - :pray: looking for some sponsors too
 - 📫 How to reach me Speight-Kyle@outlook.com <br>
 ## I have over half a decade of experience coding!
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)]
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
 
@@ -32,5 +33,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="55"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=0e75b6"/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=0e75b6"/></p>
