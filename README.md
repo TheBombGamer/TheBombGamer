@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Kyle Speight
 - 👀 I’m interested in making the web cheaper for developers
 - 🌱 I’m currently learning Rust
+- 💻 I am more of a backend person :3
 - 🤝 I’m looking to collaborate on Website Hosting
 - :pray: looking for some sponsors too
-- 📫 How to reach me Speight-Kyle@outlook.com <br>
-## I have over half a decade of experience coding!
+- 📫 How to reach me braydenspeight848@proton.me <br>
+## I have over half a decade of experience coding back and frontend!
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark"/></p>
