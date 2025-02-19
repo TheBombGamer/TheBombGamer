@@ -34,3 +34,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="55"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=0e75b6"/></p>
+<iframe src="https://discord.com/widget?id=1294859312505557067&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
