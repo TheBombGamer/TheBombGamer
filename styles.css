@@ -1,0 +1,44 @@
+*{
+    color: #ffffff;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    max-width: 100vw;
+}
+body{
+    padding: 0;
+    max-width: 100vw;
+    width: ;
+    background-color: #000000;
+}
+a {
+    text-decoration: none;
+}
+.default {
+    background-color: #aa0404;
+    width: 30%;
+    display: inline-block;
+    border-radius: 35px;
+}
+button{
+    background-color: #aa0404;
+    height: 5%;
+    border-radius: 10px;
+    padding: 10;
+    border: 0;
+}
+b{
+    color: #79c8ef;
+}
+g{
+    color: #29f53e;
+}
+r{
+ color:rgb(237, 46, 46);
+}
+y{
+    color: #fff45b;
+}
+w{
+    color: #ffffff;
+}
