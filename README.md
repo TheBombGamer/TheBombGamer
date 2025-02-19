@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on Website Hosting
 - :pray: looking for some sponsors too
 - 📫 How to reach me braydenspeight848@proton.me <br>
-https://thebombgamer.github.io/ <br>
+- https://thebombgamer.github.io/TheBombGamer/ <br>
 ## I have over half a decade of experience coding back and frontend!
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)-->
 
