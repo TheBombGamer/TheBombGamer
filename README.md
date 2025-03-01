@@ -34,4 +34,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="55"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=0e75b6"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=blueviolet&style=for-the-badge"/></p>
