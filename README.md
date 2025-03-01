@@ -10,7 +10,7 @@
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=dark"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
