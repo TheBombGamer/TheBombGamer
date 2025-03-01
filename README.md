@@ -10,9 +10,6 @@
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=dark)
 
-
-![this-shit](https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=blueviolet&style=for-the-badge)
 ![profile](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark)
 
-
-
+![this-shit](https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=blueviolet&style=for-the-badge)
