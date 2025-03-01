@@ -9,8 +9,8 @@
 ## I have over half a decade of experience coding back and frontend!
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=rohitpaulk&theme=onedark)-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=merko"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=gruvbox"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=tokyonight"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebombgamer&show_icons=true&locale=en&layout=compact&theme=synthwave"/></p>
 
 
 <h2> 🚀 &nbsp;Tools and Services I know :)</h2>
