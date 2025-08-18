@@ -10,7 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBombGamer&layout=compact&langs_count=16&theme=dark)
 
 <a href="http://www.github.com/TheBombGamer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thebombgamer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<img src="//ipv6.he.net/certification/create_badge.php?pass_name=Kyle&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for Kyle S."></img>
+
 ![profile](https://github-readme-stats.vercel.app/api?username=thebombgamer&show_icons=true&locale=en&theme=dark)
 
-![this-shit](https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=blueviolet&style=for-the-badge)
+![this-shit](https://komarev.com/ghpvc/?username=thebombgamer&label=Profile%20views&color=blueviolet&style=for-the-badge)<br>
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=Kyle&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for Kyle S."></img>
