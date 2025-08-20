@@ -4,7 +4,7 @@
 - 💻 I am more of a backend person :3
 - 🤝 I’m looking to collaborate on Website Hosting
 - :pray: looking for some sponsors too
-- 📫 How to reach me braydenspeight848@proton.me <br>
+- 📫 How to reach me kyle@kyle-hosting.xyz <br>
 - My profile https://thebombgamer.github.io/TheBombGamer/ <br>
 ## I have over 7 Years of experience coding back and frontend code!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBombGamer&layout=compact&langs_count=16&theme=dark"></img>
